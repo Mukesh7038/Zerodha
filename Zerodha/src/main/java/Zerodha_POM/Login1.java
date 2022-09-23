@@ -33,4 +33,8 @@ public class Login1 {
 		
 		LoginButton.click();
 	}
+	public void git() {
+		
+// 		creating a got change to show in eclispe.
+	}
 }
