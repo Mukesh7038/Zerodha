@@ -33,8 +33,5 @@ public class Login1 {
 		
 		LoginButton.click();
 	}
-public void git() {
-		
-//		changes for push
-	}
+
 }
